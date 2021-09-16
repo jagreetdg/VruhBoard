@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeightLarge"
+    android:background="#2BFFFFFF">
+
+    <Button
+        android:id="@+id/playButt"
+        android:layout_width="370dp"
+        android:layout_height="69dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/border"
+        android:contentDescription="PlayButton"
+        android:textSize="20sp"/>
+
+</RelativeLayout>
