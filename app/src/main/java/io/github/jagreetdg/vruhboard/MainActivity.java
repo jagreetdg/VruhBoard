@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
                         "17) WTF Is Happening (New Audio)\n\t" +
                         "18) Wally Spank (New Audio)\n\t" +
                         "19) Wally vs PP (New Audio)\n\t" +
+                        "20) Oh Yeah 2 (New Audio)\n\t"+
                         "20) UI Overhaul\n\t" +
                         "21) Changed Background\n" +
                         "Known Bugs :\n" +
@@ -155,6 +156,8 @@ public class MainActivity extends AppCompatActivity {
         pb_ids.add(R.raw.v2_sohom_horn);
         txts.add("V2 Sohom Grunge");
         pb_ids.add(R.raw.v2_sohom_grunge);
+        txts.add("V2 Sohom Chinchinchoo");
+        pb_ids.add(R.raw.v2_sohom_chinchinchoo);
         txts.add("V2 Undeserving Idiot");
         pb_ids.add(R.raw.v2_undeserving_idiot);
         txts.add("V2 WTF Is Happening");
@@ -163,5 +166,7 @@ public class MainActivity extends AppCompatActivity {
         pb_ids.add(R.raw.v2_wally_spank);
         txts.add("V2 Wally PP");
         pb_ids.add(R.raw.v2_wally_vs_pp);
+        txts.add("V2 Oh Yeah 2");
+        pb_ids.add(R.raw.v2_oh_yeah_2);
     }
 }
