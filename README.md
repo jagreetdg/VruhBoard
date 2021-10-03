@@ -111,9 +111,9 @@ Here's why:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Add Changelog
-- [] Add custom sounds
-- [] UI/UX improvements
+- [ ] Add Changelog
+- [ ] Add custom sounds
+- [ ] UI/UX improvements
 
 
 See the [open issues](https://github.com/dsc-iem/VruhBoard/issues) for a full list of proposed features (and known issues).
