@@ -40,29 +40,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String content =
                         "Updates :\n\t" +
-                        "1) Aur Daal (New Audio)\n\t" +
-                        "2) Babar Bichi (New Audio)\n\t" +
-                        "3) Danny Hatori (New Audio)\n\t"+
-                        "4) E Site EE (New Audio)\n\t" +
-                        "5) Femels Cri (New Audio)\n\t" +
-                        "6) Haaalp (New Audio)\n\t" +
-                        "7) Jabo to Jabo Kothay (New Audio)\n\t" +
-                        "8) Lok Jodi Chodon (New Audio)\n\t" +
-                        "9) Mouse Ta Dao (New Audio)\n\t" +
-                        "10) Raw DC (New Audio)\n\t" +
-                        "11) Sohom Cri (New Audio)\n\t" +
-                        "12) Sohom Cri 2 (New Audio)\n\t" +
-                        "13) Sohom Grunge (New Audio)\n\t" +
-                        "14) Sohom Moo (New Audio)\n\t" +
-                        "15) Sohom Horn (New Audio)\n\t" +
-                        "16) Undeserving Idiot (New Audio)\n\t" +
-                        "17) WTF Is Happening (New Audio)\n\t" +
-                        "18) Wally Spank (New Audio)\n\t" +
-                        "19) Wally vs PP (New Audio)\n\t" +
-                        "20) Oh Yeah 2 (New Audio)\n\t"+
-                        "21) Sohom Sike (New Audio)\n\t"+
-                        "22) UI Overhaul\n\t" +
-                        "23) Changed Background\n" +
+                        "1) Added New Audios\n\t"+
+                        "2) UI Overhaul\n\t" +
+                        "3) Changed Background\n" +
                         "Known Bugs :\n" +
                         "Audio not playing till the end/not playing at all on click" + "\n" +
                         "Hotfix - Restarting the app should solve the problem" + "\n" +
@@ -171,5 +151,11 @@ public class MainActivity extends AppCompatActivity {
         pb_ids.add(R.raw.v2_wally_vs_pp);
         txts.add("V2 Oh Yeah 2");
         pb_ids.add(R.raw.v2_oh_yeah_2);
+        txts.add("V2 Kichu Janisnaa");
+        pb_ids.add(R.raw.v2_kichujanisnaa);
+        txts.add("V2 No More Naru");
+        pb_ids.add(R.raw.v2_nomorenaru);
+        txts.add("V2 Yoru Trash");
+        pb_ids.add(R.raw.v2_yoru_trash);
     }
 }
