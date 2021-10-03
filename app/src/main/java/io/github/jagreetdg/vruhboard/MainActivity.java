@@ -60,8 +60,9 @@ public class MainActivity extends AppCompatActivity {
                         "18) Wally Spank (New Audio)\n\t" +
                         "19) Wally vs PP (New Audio)\n\t" +
                         "20) Oh Yeah 2 (New Audio)\n\t"+
-                        "20) UI Overhaul\n\t" +
-                        "21) Changed Background\n" +
+                        "21) Sohom Sike (New Audio)\n\t"+
+                        "22) UI Overhaul\n\t" +
+                        "23) Changed Background\n" +
                         "Known Bugs :\n" +
                         "Audio not playing till the end/not playing at all on click" + "\n" +
                         "Hotfix - Restarting the app should solve the problem" + "\n" +
@@ -159,6 +160,8 @@ public class MainActivity extends AppCompatActivity {
         txts.add("V2 Sohom Chinchinchoo");
         pb_ids.add(R.raw.v2_sohom_chinchinchoo);
         txts.add("V2 Undeserving Idiot");
+        pb_ids.add(R.raw.v2_sohom_sike);
+        txts.add("V2 Sohom Sike");
         pb_ids.add(R.raw.v2_undeserving_idiot);
         txts.add("V2 WTF Is Happening");
         pb_ids.add(R.raw.v2_wtf_is_happening);
